@@ -1,1 +1,4 @@
-const obj = { ok: 2, code: "200" };
+const obj = {
+  ok: 2,
+  code: '200'
+};
