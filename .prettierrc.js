@@ -6,7 +6,7 @@ module.exports = {
   singleQuote: true, // 使用单引号
   printWidth: 115,
   proseWrap: 'always',
-  semi: true, // 不加分号
+  semi: false, // 不加分号
   trailingComma: 'none', // 结尾处不加逗号
   htmlWhitespaceSensitivity: 'ignore' // 忽略'>'下落问题
 };

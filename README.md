@@ -16,3 +16,7 @@
 - js 文件保存后，自动给格式化
   - 1.vscode 设置-> settings-> text edit-> format on save 选中
   - 2.项目的根目录下创建 .prettierrc.js 文件，并进行配置
+- 其它项目没有配置.prettier.js 文件，为啥保存也会自动格式化代码？？？
+- 并且格式化的时候还会默认加上分号
+
+* 是读取的 vscode 的 prettier 插件的配置文件吗？？？
